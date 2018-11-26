@@ -13,7 +13,7 @@ import org.springframework.context.annotation.Configuration;
 /**
  * CouchDB配置类
  *
- * @author yz
+ * @author AuroraLove
  * @date 2018/11/15
  */
 @Configuration

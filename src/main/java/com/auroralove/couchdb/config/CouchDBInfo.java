@@ -6,7 +6,7 @@ import org.springframework.stereotype.Component;
 /**
  * CouchDB连接配置信息
  *
- * @author yz
+ * @author AuroraLove
  * @date 2018/11/15
  */
 @Component
